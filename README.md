@@ -1,4 +1,4 @@
-````markdown
+
 #  NumPy - Quick Notes for Data Analysts
 
 Welcome, analysts!   
@@ -14,7 +14,7 @@ You will also find a link to the **practice notebook** at the end to strengthen 
 - Key import:
   ```python
   import numpy as np
-````
+
 
 ---
 
